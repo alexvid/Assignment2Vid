@@ -7,9 +7,9 @@ namespace FurnitureManufacturer
 {
     public class LoginPresenter
     {
-        private readonly Login login;
+        private readonly LoginInterface login;
 
-        public LoginPresenter(Login login)
+        public LoginPresenter(LoginInterface login)
         {
             this.login = login;
             this.login.LoginBtn += LoginFunc;

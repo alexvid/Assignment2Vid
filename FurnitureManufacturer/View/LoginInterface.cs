@@ -5,9 +5,10 @@ using System.Text;
 
 namespace FurnitureManufacturer
 {
-    interface LoginInterface
+    public interface LoginInterface
     {
         event Action LoginBtn;
+        void LoginV();
 
     }
 }

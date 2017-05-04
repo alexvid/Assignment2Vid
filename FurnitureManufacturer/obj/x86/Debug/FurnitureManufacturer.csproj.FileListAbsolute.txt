@@ -15,3 +15,6 @@ d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer\obj\x86\Debug\FurnitureMa
 d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer\obj\x86\Debug\FurnitureManufacturer.csproj.GenerateResource.Cache
 d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer\obj\x86\Debug\FurnitureManufacturer.exe
 d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer\obj\x86\Debug\FurnitureManufacturer.pdb
+D:\PS\asm2\FurnitureManufacturer\FurnitureManufacturer\bin\Debug\FurnitureManufacturer.exe.config
+D:\PS\asm2\FurnitureManufacturer\FurnitureManufacturer\obj\x86\Debug\FurnitureManufacturer.exe
+D:\PS\asm2\FurnitureManufacturer\FurnitureManufacturer\obj\x86\Debug\FurnitureManufacturer.pdb
