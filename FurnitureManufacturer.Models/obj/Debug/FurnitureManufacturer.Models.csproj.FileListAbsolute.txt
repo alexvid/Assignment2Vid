@@ -1,0 +1,5 @@
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.Models\bin\Debug\FurnitureManufacturer.Models.dll
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.Models\bin\Debug\FurnitureManufacturer.Models.pdb
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.Models\obj\Debug\FurnitureManufacturer.Models.csprojResolveAssemblyReference.cache
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.Models\obj\Debug\FurnitureManufacturer.Models.dll
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.Models\obj\Debug\FurnitureManufacturer.Models.pdb

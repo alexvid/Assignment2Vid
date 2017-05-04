@@ -1,0 +1,5 @@
+Id activitate: 1 id angajat: 2 Id operatie:  7 in tabela: product la data:3/30/2017 12:00:00 AM
+Id activitate: 2 id angajat: 2 Id operatie:  8 in tabela: product la data:3/30/2017 12:00:00 AM
+Id activitate: 3 id angajat: 3 Id operatie:  9 in tabela: product la data:3/30/2017 12:00:00 AM
+Id activitate: 4 id angajat: 3 Id operatie:  1 in tabela: OrderProducts la data:3/30/2017 12:00:00 AM
+Id activitate: 5 id angajat: 3 Id operatie:  2 in tabela: OrderProducts la data:3/30/2017 12:00:00 AM

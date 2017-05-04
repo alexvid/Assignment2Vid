@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FurnitureManufacturer.DAL.DataAccess" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AyAAAAAgAAAAAAAEEAAIQAyAgQACAAAgkACAgAAAAgA=</HashCode>
+      <FileName>Models\DataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Models.History" Collapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAAAAAQAACAA=</HashCode>
+      <FileName>Models\History.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Models.Order" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAgAAABAAAAAAAAAAAQAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Models.OrderProducts" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\OrderProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Models.Product" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAggAAAAAAAAAQAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Models.RaportFactory" Collapsed="true">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\RaportFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Models.TxtRaport" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAACAABAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\TxtRaport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FurnitureManufacturer.Models.User" Collapsed="true">
+    <Position X="1" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAgIAAAAAAAAAACAAAAAACAQAACAAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Models.XmlRaport" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAACAABAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\XmlRaport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FurnitureManufacturer.BL.Security" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Models\Security.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.BL.UserOperations" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAgAAAAAAAEAAAIQAyAgQACAAAggACQgAAAAgA=</HashCode>
+      <FileName>Models\UserOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.LoginPresenter" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Presenter\LoginPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Program" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Accounts" Collapsed="true">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iGECYAEQQGFLAIAAEAmAAABqAAAIAYAoSCAUQRQQeQQ=</HashCode>
+      <FileName>View\Accounts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Admin" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAASQACAAABAAIAihAAACAADAhAAAFgAiACAQAQY=</HashCode>
+      <FileName>View\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Login" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAABAAACAAAAAAAgCABAACAAAACAAAAgAQAABAAAA=</HashCode>
+      <FileName>View\Login.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FurnitureManufacturer.Properties.Resources" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureManufacturer.Properties.Settings" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FurnitureManufacturer.Models.Raport" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Raport.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FurnitureManufacturer.LoginInterface" Collapsed="true">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\LoginInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

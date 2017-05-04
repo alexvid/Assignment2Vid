@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report>
+  <Activity>
+    <ID>5</ID>
+    <IDEmployee>3</IDEmployee>
+    <IDOperation>2</IDOperation>
+    <TableName>OrderProducts</TableName>
+    <Date>3/30/2017 12:00:00 AM</Date>
+  </Activity>
+  <Activity>
+    <ID>4</ID>
+    <IDEmployee>3</IDEmployee>
+    <IDOperation>1</IDOperation>
+    <TableName>OrderProducts</TableName>
+    <Date>3/30/2017 12:00:00 AM</Date>
+  </Activity>
+  <Activity>
+    <ID>3</ID>
+    <IDEmployee>3</IDEmployee>
+    <IDOperation>9</IDOperation>
+    <TableName>product</TableName>
+    <Date>3/30/2017 12:00:00 AM</Date>
+  </Activity>
+  <Activity>
+    <ID>2</ID>
+    <IDEmployee>2</IDEmployee>
+    <IDOperation>8</IDOperation>
+    <TableName>product</TableName>
+    <Date>3/30/2017 12:00:00 AM</Date>
+  </Activity>
+  <Activity>
+    <ID>1</ID>
+    <IDEmployee>2</IDEmployee>
+    <IDOperation>7</IDOperation>
+    <TableName>product</TableName>
+    <Date>3/30/2017 12:00:00 AM</Date>
+  </Activity>
+</Report>

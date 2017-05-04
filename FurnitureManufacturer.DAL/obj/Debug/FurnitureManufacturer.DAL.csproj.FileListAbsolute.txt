@@ -1,0 +1,9 @@
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.DAL\bin\Debug\FurnitureManufacturer.DAL.dll.config
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.DAL\bin\Debug\FurnitureManufacturer.DAL.dll
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.DAL\bin\Debug\FurnitureManufacturer.DAL.pdb
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.DAL\bin\Debug\FurnitureManufacturer.Models.dll
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.DAL\bin\Debug\MySql.Data.dll
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.DAL\bin\Debug\FurnitureManufacturer.Models.pdb
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.DAL\obj\Debug\FurnitureManufacturer.DAL.csprojResolveAssemblyReference.cache
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.DAL\obj\Debug\FurnitureManufacturer.DAL.dll
+d:\PS\lab2\FurnitureManufacturer\FurnitureManufacturer.DAL\obj\Debug\FurnitureManufacturer.DAL.pdb
